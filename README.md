@@ -3,9 +3,9 @@
 
 <h2>Usage Protocol:<h2>
 <ul>
-  <li>1. user only numbers (except the (y/n))<li>
-  <li>2. input your tax percentage<li>
-  <li>3. input all you brutto values<li>
-  <li>4. input a negative value to calculate<li>
-  <li>5. exit or restart program<li>
+  <li>1. user only numbers (except the (y/n))</li>
+  <li>2. input your tax percentage</li>
+  <li>3. input all you brutto values</li>
+  <li>4. input a negative value to calculate</li>
+  <li>5. exit or restart program</li>
 <ul>

@@ -3,7 +3,7 @@
 <ul>
    1. Öffnen Sie <a href="https://www.tutorialspoint.com/execute_python_online.php"> Python Compiler </a> <br>
    2. Kopieren Sie den gesamten Code: main.py <br>
-   3. Fügen Sie Code in das <b>leeres blaue Feld</b> ein  <br>
+   3. Fügen Sie Code in das <u>leeres blaue Feld</u> ein  <br>
    4. Klicken Sie auf Execute <br>
 </ul>
 

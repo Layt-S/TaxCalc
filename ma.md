@@ -10,17 +10,17 @@
 <h2>Options descritption</h2>
 
 <b>The vertex of Parabola</b> <br>
-   Stellt die Scheitelpunkt und Scheitelformel
-<b>Find the Y-Coordinate</b>
-   ermittelt den fehlenden Y-Koordinate
-<b>Point on Parabola</b>
-   prüft ob der gegebene Punkt auf deinen Parable ligt
-<b>Find the Zero-Coordinate</b>
-   Stellt die nullstellen deiner Parable
-<b>Describe the Parabola</b>
-   Beschreibt die Parable wörtlich
-<b>Change the equation</b>
-   ändert die Startmedium
+   Stellt die Scheitelpunkt und Scheitelformel <br>
+<b>Find the Y-Coordinate</b> <br>
+   ermittelt den fehlenden Y-Koordinate <br>
+<b>Point on Parabola</b> <br>
+   prüft ob der gegebene Punkt auf deinen Parable ligt <br>
+<b>Find the Zero-Coordinate</b> <br>
+   Stellt die nullstellen deiner Parable <br>
+<b>Describe the Parabola</b> <br>
+   Beschreibt die Parable wörtlich <br>
+<b>Change the equation</b> <br>
+   ändert die Startmedium <br>
 
 
 <h3>Vocabular</h3>

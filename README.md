@@ -3,7 +3,7 @@
 
 <h2>Usage Protocol:<h2>
 <ul>
-  <li>1. user only numbers (except the (y/n))</li>
+  <li>1. use only numbers (except the (y/n))</li>
   <li>2. input your tax percentage</li>
   <li>3. input all you brutto values</li>
   <li>4. input a negative value to calculate</li>
